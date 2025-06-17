@@ -81,6 +81,7 @@ fof-webhooks:
         discord: Discord
         slack: Slack
         microsoft-teams: Microsoft Teams
+        ntfy: ntfy.sh
 
       actions:
         flarum:
